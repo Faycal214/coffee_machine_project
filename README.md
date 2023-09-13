@@ -1,1 +1,1 @@
-# coffee_machine_project
+# coffee_machine
